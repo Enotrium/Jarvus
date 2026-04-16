@@ -1,2 +1,2 @@
 # Jarvus
-My AI intern
+Enotrium bot
