@@ -8,7 +8,7 @@ Jarvus is a TypeScript-based autonomous agent with long-term memory, tool use, k
 
 ## Features
 
-- **Persistent Memory** — Vector + graph memory layer
+- **Persistent Memory** — graph memory layer
 - **Tool Use** — Extensible tool calling system
 - **Knowledge Ingestion** — Process documents, code, benchmarks
 - **Dashboard** — Real-time agent monitoring
